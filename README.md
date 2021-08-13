@@ -1,1 +1,3 @@
-# Learing_snake
+# learning_snake
+
+send help
